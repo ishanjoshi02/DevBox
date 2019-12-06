@@ -1,0 +1,12 @@
+settings.py
+.DS_Store
+settings.py
+eden.ini
+/venv/
+*.db
+*.py[cod]
+._*
+
+.cache
+.vscode/
+.idea/

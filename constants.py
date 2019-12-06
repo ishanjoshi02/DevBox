@@ -1,0 +1,5 @@
+EDITORS = [
+    'subl',
+    'atom',
+    'code'
+]
